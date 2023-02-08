@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-fffb8e28","path":"/guide/","title":"什么是Pinia?","lang":"zh-CN","frontmatter":{"lang":"zh-CN","title":"什么是Pinia?","description":"页面的描述"},"headers":[],"git":{},"filePathRelative":"guide/README.md"}');export{e as data};
