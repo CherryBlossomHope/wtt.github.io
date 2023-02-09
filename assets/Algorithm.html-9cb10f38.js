@@ -1,0 +1,1 @@
+import{_ as t,p as s,q as a,R as e,t as r}from"./framework-204010b2.js";const o={},c=e("h2",{id:"js-算法",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#js-算法","aria-hidden":"true"},"#"),r(" js 算法")],-1),n=[c];function _(d,i){return s(),a("div",null,n)}const l=t(o,[["render",_],["__file","Algorithm.html.vue"]]);export{l as default};

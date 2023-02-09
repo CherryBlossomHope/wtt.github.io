@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-fb0f0066","path":"/guide/getting-started.html","title":"优化 重绘重流","lang":"zh-CN","frontmatter":{"lang":"zh-CN","title":"优化 重绘重流","description":"页面的描述"},"headers":[],"git":{},"filePathRelative":"guide/getting-started.md"}');export{t as data};
