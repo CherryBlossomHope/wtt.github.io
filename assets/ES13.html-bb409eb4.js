@@ -1,1 +1,0 @@
-import{_ as t,p as a,q as s,R as e,t as c}from"./framework-204010b2.js";const r={},o=e("h2",{id:"es13-新特性",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#es13-新特性","aria-hidden":"true"},"#"),c(" ES13 新特性")],-1),n=[o];function _(d,i){return a(),s("div",null,n)}const l=t(r,[["render",_],["__file","ES13.html.vue"]]);export{l as default};
