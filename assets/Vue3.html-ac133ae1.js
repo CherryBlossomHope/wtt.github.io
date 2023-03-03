@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-2887b4a3","path":"/Vue3/Vue3.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[{"level":3,"title":"顶层 await","slug":"顶层-await","link":"#顶层-await","children":[]}],"git":{"updatedTime":1677810016000,"contributors":[{"name":"Mashiro","email":"1526566980@qq.com","commits":2}]},"filePathRelative":"Vue3/Vue3.md"}');export{e as data};
